@@ -1,0 +1,4 @@
+psutil
+GPUtil
+pyqt6
+pyqtgraph
